@@ -1,0 +1,6 @@
+# Git 安装包
+*.exe
+
+# 其他目录
+Git/
+git_text01/
